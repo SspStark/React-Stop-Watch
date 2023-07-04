@@ -1,4 +1,4 @@
-In this project, let's build a **Stopwatch** by applying the concepts we have learned till now.
+# [Stop Watch](https://sspstopwatch.ccbp.tech/)
 
 ### Refer to the image below:
 
